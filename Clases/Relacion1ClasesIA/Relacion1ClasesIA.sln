@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relacion1ClasesIA", "Relacion1ClasesIA\Relacion1ClasesIA.csproj", "{BA614E97-D1D1-4FD9-8003-A4A3E4AB7B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA614E97-D1D1-4FD9-8003-A4A3E4AB7B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA614E97-D1D1-4FD9-8003-A4A3E4AB7B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA614E97-D1D1-4FD9-8003-A4A3E4AB7B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA614E97-D1D1-4FD9-8003-A4A3E4AB7B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
